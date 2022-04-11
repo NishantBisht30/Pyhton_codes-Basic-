@@ -1,5 +1,5 @@
 '''
-print("5 ** 6 : ",5**6)          # exponential operator ..(it raises the  power ) for eg., here it means 5 ki power 6
+print("5 ** 6 : ",5**6)          # exponential operator ..(it raises the  power ) for eg., here it means 5 to power 6
 print("15 // 6 : ",15 // 6)          # gives integer answer ... // this is called floor division operator
 
 i = 5
